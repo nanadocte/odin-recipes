@@ -1,0 +1,43 @@
+* {
+    background-color: chocolate;
+    color: rgb(226, 206, 179);
+    margin: 0px;
+    font-family: fantasy;
+    
+}
+.entete {
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 100%;
+
+}
+.un {
+    margin: 0px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: rgb(232, 194, 118);
+    color: rgb(180, 102, 8);
+    font-size: 50px;
+}
+.deux {
+    text-align: right;
+    font-size: 25px;
+    margin: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: rgb(232, 194, 118);
+    color: rgb(180, 102, 8);
+}
+.trois {
+    margin: 10px;
+    font-size: 25px;
+
+}
+button {
+    background-color: rgb(165, 93, 0);
+    color: rgb(226, 206, 179);
+    border-color: rgb(164, 107, 15);
+    font-size: 20px;
+}
